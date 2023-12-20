@@ -872,3 +872,6 @@ html {
   background: radial-gradient(ellipse at center, #051838, #0A093B 100%);
   color: #fff;
 }/*# sourceMappingURL=style.css.map */
+audio {
+  margin-top: 200px;
+}
